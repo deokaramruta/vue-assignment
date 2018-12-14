@@ -9,9 +9,9 @@ Vue JS & bootstrap-4
 ```
 1. Clone the repository from github location
 
-2. Open repository location on command promt and use npm install command, this will add all the preoject dependencies (prerequisite : node & npm should be installed)
+2. Open repository location on command promt and use npm install command, this will add all the preoject dependencies (pre-requisite : node & npm should be installed)
 
-3. Use command to run the application, npm run serve
+3. Use command 'npm run serve' to build and run the application.
 ```
 
 ## Assumption
